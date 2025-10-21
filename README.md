@@ -15,4 +15,12 @@ Kode program : <img width="1007" height="551" alt="Screenshot 2025-10-21 154627 
 
 Output: <img width="1343" height="539" alt="Screenshot 2025-10-21 154653" src="https://github.com/user-attachments/assets/fdf1d3ee-0d9b-4389-9aa0-cd320719cad6" />
 
+## Flowchart untuk menentukan bilangan  terbesar dari 3 buah bilangan yang diinputkan
+<img width="800" height="1120" alt="Blank diagram" src="https://github.com/user-attachments/assets/18171680-2841-412d-a24a-5736fa80ef30" />
+
+## Flowchart menentukan bilangan terbesar dari N bilangan yang diinputkan, untuk menentukan jumlah N, berikan masukan angka 0.
+<img width="820" height="1860" alt="Blank diagram (1)" src="https://github.com/user-attachments/assets/b9e44f2b-5eba-4cba-8db1-2bdc81e99b2c" />
+
+
+
 
